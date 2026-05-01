@@ -21,7 +21,6 @@ client_settings:
 resources:
   v2:
     methods:
-      search-classifications: get /discovery/v2/classifications
       get-genre-details: get /discovery/v2/classifications/genres/{id}
       get-segment-details: get /discovery/v2/classifications/segments/{id}
       get-subgenre-details: get /discovery/v2/classifications/subgenres/{id}
