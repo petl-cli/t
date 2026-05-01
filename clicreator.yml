@@ -1,7 +1,7 @@
 cli:
   name: discovery-api
   env_prefix: DISCOVERY_API
-  version: 0.1.0
+  version: 0.1.1
 environments:
   production: https://app.ticketmaster.com
 security_schemes:
